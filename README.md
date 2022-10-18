@@ -1,4 +1,5 @@
 ![](readme_presentation_slides/1.jpg)
+![](readme_presentation_slides/1.2.jpg)
 ![](readme_presentation_slides/2.jpg)
 ![](readme_presentation_slides/3.jpg)
 ![](readme_presentation_slides/4.jpg)
